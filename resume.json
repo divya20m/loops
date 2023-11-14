@@ -1,0 +1,53 @@
+{
+    "name": " M Divya",
+    "title": "Full Stack Developer",
+    "contact": {
+      "email": "divya20m07@gmail.com",
+      "phone": "12345678910",
+      "address": "Chennai TamilNadu"
+    },
+    "summary": "A Passionate Aspiring Full Stack Developer",
+    "education": [
+      {
+        "degree": "Bachelor of Science in Physics",
+        "school": "St xaviers",
+        "graduationYear": 2022
+      },
+      {
+        "degree": "High School ",
+        "school": "Kendriya Vidyalaya",
+        "graduationYear": 2018
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "HTML",
+      "CSS",
+      "Problem Solving"
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Fluent"
+      },
+      {
+        "language": "hindi",
+        "fluency": "Fluent"
+      },
+      {
+        "language": "Tamil",
+        "fluency": "Fluent"
+      }
+],
+    "projects": [
+      {
+        "name": "Web application for dresses",
+        "description": "A brief description of the project.",
+        "technologies": ["React", "Node.js", "MongoDB"],
+        "link": "https://github.divya20m"
+      }
+    ]
+}
+  
